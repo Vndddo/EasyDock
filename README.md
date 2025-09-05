@@ -20,3 +20,13 @@ Clone the repository:
 git clone https://github.com/yourusername/EasyDock.git
 cd EasyDock
 pip install -r requirements.txt
+```
+
+---
+
+## Requirements:
+- Python 3.8+
+- pandas
+- AutoDock Vina installed
+- MGLTools installed (for preparation)
+
