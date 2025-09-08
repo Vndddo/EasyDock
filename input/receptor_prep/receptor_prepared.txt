@@ -1,0 +1,1 @@
+save prepared receptor .pdbqt file here
