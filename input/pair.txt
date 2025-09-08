@@ -1,0 +1,2 @@
+Target	PDB	Nat_Ligand
+ACACB	3GID	S1A

@@ -1,0 +1,3 @@
+Target	Receptor	Ligand
+ACACB	3GID	Charantoside C
+
